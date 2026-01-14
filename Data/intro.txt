@@ -1,0 +1,2 @@
+This project demonstrates a Retrieval-Augmented Generation (RAG) system.
+The system retrieves relevant documents and uses them to generate accurate answers.

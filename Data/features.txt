@@ -1,0 +1,4 @@
+Features of the project include:
+- Document ingestion
+- Semantic search using embeddings
+- Context-aware answer generation
